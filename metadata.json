@@ -1,0 +1,6 @@
+{
+  "name": "AI-NIDPS - AI-Powered Network Intrusion Detection & Prevention System",
+  "description": "First-Layer AI/ML Network Intrusion Detection and Prevention System focusing on Layer 3/4 perimeter defense, specifically TCP SYN Flood (DDoS/DoS) and Stealth TCP Port Scan (Reconnaissance) with automated mitigation and Gemini Explainable AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
